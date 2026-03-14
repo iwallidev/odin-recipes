@@ -1,5 +1,4 @@
-# odin-recipes
-<h1>Odin Recipes Project</h1>
+"<h1>Odin Recipes Project</h1>
 <br>
 <img src="/Recipes/Images/Captura de tela 2026-03-13 200726.png" alt="Project">
 <br>
